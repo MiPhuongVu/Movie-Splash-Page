@@ -1,0 +1,158 @@
+body, html {
+    margin: 0;
+    background-color: black;
+    background: url("../img/solo-assets/Background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;   
+}
+
+.fab {
+    color: white;
+}
+
+.border-helper {
+    border: 1px solid white;
+
+}
+
+
+
+/* TYPE/FONTS */
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h2, h4 {
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Archivo Narrow', sans-serif;
+    text-align: center;
+    color: gold;
+    font-size: 30px;
+}
+
+
+p {
+    font-family: 'Abel', sans-serif;
+    color: white; 
+}
+
+
+#main-contentwrapper {
+    position: relative;
+    margin: 0 auto;
+    width: 1400px;
+    height: 830px;
+}
+
+
+
+/* MAIN CONTENT */
+#box1 {
+    position: relative;
+    margin: 0 auto;
+    width: 1400px;
+    height: 830px;
+
+}
+
+
+#mainlogo {
+    position: relative;
+    margin: 0 auto;
+    width: 500px;
+    top: 250px;
+}
+
+div >a{
+    display: inline;
+    margin: 0 200px 0 400px;
+}
+
+
+titleinfo {
+    position: absolute;
+    width: 1000px;
+
+}
+
+#studio-rating {
+    position: relative;
+    margin: 0 auto;
+}
+
+
+
+/* SOCIAL ICONS */
+#box2 {
+    position: relative;
+    margin: 0 auto;
+    width: 600px;
+    color: white;
+}
+
+ul >li{
+    display: inline;
+    margin: 0 40px 0 50px;
+    color: white;
+}
+
+i{
+    font-size: 80px;
+}
+
+
+
+/* TRAILER */
+#box3 {
+    position: relative;
+    margin: 0 auto;
+    width: 1400px;
+    height: 830px;
+}
+
+#trailervideo {
+    position: relative;
+    margin: 0 auto;
+    width: 1283px;
+}
+
+
+
+/* SYNOPSIS */
+#box4 {
+    position: relative;
+    margin: 0 auto;
+    width: 1400px;
+    height: 1000px;
+}
+
+poster {
+    width: 500px;
+    position: absolute;
+    padding-left: 10px;
+}
+
+#bodycopy {
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    left: 550px;
+    bottom: 300px;
+}
+
+p {
+    font-family: 'Abel', sans-serif;
+    color: white;
+    text-align: justify;
+    text-indent: 15px;
+}
