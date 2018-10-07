@@ -51,7 +51,7 @@ p {
     position: relative;
     margin: 0 auto;
     width: 1400px;
-    height: 830px;
+    height: 3000px;
 }
 
 
@@ -80,14 +80,9 @@ div >a{
 
 
 titleinfo {
-    position: absolute;
-    width: 1000px;
-
-}
-
-#studio-rating {
     position: relative;
-    margin: 0 auto;
+    margin: 0 auto; 
+    width: 600px;
 }
 
 
@@ -133,13 +128,13 @@ i{
     position: relative;
     margin: 0 auto;
     width: 1400px;
-    height: 1000px;
+    height: 900px;
+    background-color: rgba(0, 0, 0, .5);
 }
 
 poster {
-    width: 500px;
     position: absolute;
-    padding-left: 10px;
+
 }
 
 #bodycopy {
@@ -147,7 +142,7 @@ poster {
     width: 800px;
     height: 600px;
     left: 550px;
-    bottom: 300px;
+    bottom: 200px;
 }
 
 p {
