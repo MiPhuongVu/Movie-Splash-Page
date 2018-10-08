@@ -70,19 +70,19 @@ p {
     position: relative;
     margin: 0 auto;
     width: 500px;
-    top: 250px;
 }
 
 div >a{
     display: inline;
-    margin: 0 200px 0 400px;
+    margin: 0 100px 0 100px;
 }
 
 
-titleinfo {
+#titleinfo {
     position: relative;
     margin: 0 auto; 
-    width: 600px;
+    width: 700px;
+    top: 250px;
 }
 
 
@@ -132,20 +132,22 @@ i{
     background-color: rgba(0, 0, 0, .5);
 }
 
-poster {
+#poster {
     position: absolute;
+    left: 57px;
+    top: 95px;
 
 }
 
 #bodycopy {
     position: absolute;
-    width: 800px;
+    width: 700px;
     height: 600px;
-    left: 550px;
-    bottom: 200px;
+    left: 640px;
+    top: 95px;
 }
 
-p {
+#p {
     font-family: 'Abel', sans-serif;
     color: white;
     text-align: justify;
