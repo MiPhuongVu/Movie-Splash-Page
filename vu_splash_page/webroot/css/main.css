@@ -1,0 +1,158 @@
+body, html {
+    margin: 0;
+    background-color: black;
+    background: url("../img/solo-assets/Background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;   
+}
+
+.fab {
+    color: white;
+}
+
+/* .border-helper {
+    border: 1px solid white;
+
+} */
+
+
+
+/* TYPE/FONTS */
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h2, h4 {
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: gold;
+    font-size: 30px;
+}
+
+
+p {
+    font-family: 'Abel', sans-serif;
+    color: white; 
+}
+
+
+#main-contentwrapper {
+    position: relative;
+    margin: 0 auto;
+    width: 1400px;
+    height: 3000px;
+}
+
+
+
+/* MAIN CONTENT */
+#box1 {
+    position: relative;
+    margin: 0 auto;
+    width: 1400px;
+    height: 830px;
+
+}
+
+
+#mainlogo {
+    position: relative;
+    margin: 0 auto;
+    top: 100px;
+    width: 500px;
+}
+
+div >a{
+    display: inline;
+    margin: 0 100px 0 140px;
+}
+
+
+#titleinfo {
+    position: relative;
+    margin: 0 auto; 
+    width: 800px;
+    top: 400px;
+    line-height: 90%;
+}
+
+
+
+/* SOCIAL ICONS */
+#box2 {
+    position: relative;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 600px;
+    color: white;
+}
+
+ul >li{
+    display: inline;
+    margin: 0 40px 0 50px;
+    color: white;
+}
+
+i{
+    font-size: 80px;
+}
+
+
+
+/* TRAILER */
+#box3 {
+    position: relative;
+    margin: 0 auto;
+    /* margin-top: 100px; */
+    width: 1400px;
+    height: 830px;
+}
+
+#trailervideo {
+    position: relative;
+    margin: 0 auto;
+    width: 1283px;
+}
+
+
+
+/* SYNOPSIS */
+#box4 {
+    position: relative;
+    margin: 0 auto;
+    width: 1400px;
+    height: 900px;
+    background-color: rgba(0, 0, 0, .5);
+    padding-top: 10px;
+}
+
+#poster {
+    position: absolute;
+    left: 57px;
+    top: 95px;
+
+}
+
+#bodycopy {
+    position: absolute;
+    width: 700px;
+    height: 600px;
+    left: 640px;
+    top: 95px;
+    text-align: justify;
+    text-indent: 20px;
+}
+
